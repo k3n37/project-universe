@@ -9,7 +9,7 @@ This repo exists to organize the broader set of engineering projects into a visi
 ## Role in the ecosystem
 
 - Presentation and curation companion to `skill-os-ui`
-- Downstream storyteller for `master-platform`
+- Downstream storyteller for `orbit`
 - Neighbor to `saas-platform`
 
 ## Status
@@ -49,7 +49,7 @@ node dist/index.js
 ## Related repositories
 
 - `skill-os-ui`
-- `master-platform`
+- `orbit`
 - `saas-platform`
 
 ## Future direction

@@ -6,8 +6,8 @@ export type ProjectCard = {
 
 export function featuredProjects(): ProjectCard[] {
   return [
-    { repo: "master-platform", category: "Products", flagship: true },
+    { repo: "orbit", category: "Products", flagship: true },
     { repo: "skill-os-ui", category: "Core", flagship: true },
-    { repo: "ai-platform", category: "Data & AI", flagship: false },
+    { repo: "synapse", category: "Data & AI", flagship: false },
   ];
 }
