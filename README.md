@@ -1,4 +1,4 @@
-# project-universe
+# cosmos
 
 Curated portfolio orchestration repository connecting projects into one coherent engineering narrative.
 
@@ -8,9 +8,9 @@ This repo exists to organize the broader set of engineering projects into a visi
 
 ## Role in the ecosystem
 
-- Presentation and curation companion to `skill-os-ui`
+- Presentation and curation companion to `canvas`
 - Downstream storyteller for `orbit`
-- Neighbor to `saas-platform`
+- Neighbor to `summit`
 
 ## Status
 
@@ -24,7 +24,7 @@ Starter content and data model repo with ecosystem metadata.
 ## Structure
 
 ```text
-project-universe/
+cosmos/
 ├── docs/
 │   └── curation.md
 ├── src/
@@ -48,9 +48,9 @@ node dist/index.js
 
 ## Related repositories
 
-- `skill-os-ui`
+- `canvas`
 - `orbit`
-- `saas-platform`
+- `summit`
 
 ## Future direction
 
